@@ -1,0 +1,6 @@
+﻿  Dooz.cpp
+c:\users\pourya\desktop\dooz\dooz\dooz.cpp(303): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\pourya\desktop\dooz\dooz\dooz.cpp(423): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\pourya\desktop\dooz\dooz\dooz.cpp(488): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\pourya\desktop\dooz\dooz\dooz.cpp(290): warning C4715: 'start': not all control paths return a value
+  Dooz.vcxproj -> C:\Users\Pourya\Desktop\Dooz\Debug\Dooz.exe
